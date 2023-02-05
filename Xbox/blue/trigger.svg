@@ -1,40 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   id="Layer_1"
-   data-name="Layer 1"
-   width="88.93"
-   height="121.8"
-   viewBox="0 0 88.93 121.8"
-   version="1.1"
-   sodipodi:docname="trigger.svg"
-   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview10283"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     showgrid="false"
-     inkscape:zoom="6.6830869"
-     inkscape:cx="44.664989"
-     inkscape:cy="61.27408"
-     inkscape:window-width="1920"
-     inkscape:window-height="1001"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="Layer_1" />
-  <defs
-     id="defs10273">
-    <style
-       id="style10271">
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="88.93" height="121.8" viewBox="0 0 88.93 121.8">
+  <defs>
+    <style>
       .cls-1 {
         fill: #e5e5e5;
       }
@@ -44,25 +10,9 @@
       }
     </style>
   </defs>
-  <g
-     id="LT_Pressed"
-     data-name="LT Pressed">
-    <path
-       class="cls-1"
-       d="M74.75,56.08v-.67A5.91,5.91,0,0,1,74.75,56.08Z"
-       transform="translate(0 0)"
-       id="path10275" />
-    <path
-       class="cls-1"
-       d="M49.72,5.47c.4-.32.8-.62,1.21-.9l2.32,110L0,121.79C12.07,5,43,10.76,49.72,5.47Z"
-       transform="translate(0 0)"
-       id="path10277"
-       style="fill:#d67027;fill-opacity:1" />
-    <path
-       class="cls-2"
-       d="M76.74.14C87.57.55,88.81,11.58,88.93,15.33v1.23a819.52,819.52,0,0,0,0,93.09C79,111.94,50.39,115,50.39,115s0-20.91-.68-50.6c-.81-37.5,1.22-59.78,1.22-59.78C57.34.09,64.49-.31,76.74.14Z"
-       transform="translate(0 0)"
-       id="path10279"
-       style="fill:#e18e53;fill-opacity:1" />
+  <g id="LT_Pressed" data-name="LT Pressed">
+    <path class="cls-1" d="M74.75,56.08v-.67A5.91,5.91,0,0,1,74.75,56.08Z" transform="translate(0 0)"/>
+    <path class="cls-1" d="M49.72,5.47c.4-.32.8-.62,1.21-.9l2.32,110L0,121.79C12.07,5,43,10.76,49.72,5.47Z" transform="translate(0 0)"/>
+    <path class="cls-2" d="M76.74.14C87.57.55,88.81,11.58,88.93,15.33v1.23a819.52,819.52,0,0,0,0,93.09C79,111.94,50.39,115,50.39,115s0-20.91-.68-50.6c-.81-37.5,1.22-59.78,1.22-59.78C57.34.09,64.49-.31,76.74.14Z" transform="translate(0 0)"/>
   </g>
 </svg>

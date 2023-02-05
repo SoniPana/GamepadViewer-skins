@@ -24,7 +24,7 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="1.2911207"
-     inkscape:cx="362.08853"
+     inkscape:cx="362.86305"
      inkscape:cy="321.03892"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
@@ -353,7 +353,7 @@
          d="M241.57,279.86a56.1,56.1,0,1,1-56.1-56.1A56.09,56.09,0,0,1,241.57,279.86Z"
          id="path520"
          transform="translate(0 0)"
-         style="fill:#6c1313;fill-opacity:1" />
+         style="fill:#812917;fill-opacity:1" />
     </g>
     <g
        id="Right_Stick"
@@ -369,7 +369,7 @@
          d="M529.15,393.82A56.1,56.1,0,1,1,473,337.73,56.09,56.09,0,0,1,529.15,393.82Z"
          id="path525"
          transform="translate(0 0)"
-         style="fill:#6c1313;fill-opacity:1" />
+         style="fill:#802916;fill-opacity:1" />
     </g>
     <g
        id="Button_Base"
