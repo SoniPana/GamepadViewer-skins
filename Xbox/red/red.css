@@ -1,0 +1,30 @@
+.xbox.white {
+    background: url(https://raw.githubusercontent.com/Geusen/GamepadViewer-skins/a4cf3332e4f9cd3675aba532fd92b6f300ae1506/Xbox/red/base.svg);
+}
+
+.xbox .trigger {
+    background: url(https://raw.githubusercontent.com/Geusen/GamepadViewer-skins/a4cf3332e4f9cd3675aba532fd92b6f300ae1506/Xbox/red/trigger.svg);
+}
+
+.xbox .bumper {
+    background: url(https://raw.githubusercontent.com/Geusen/GamepadViewer-skins/a4cf3332e4f9cd3675aba532fd92b6f300ae1506/Xbox/red/bumper.svg);
+}
+
+.xbox .quadrant {
+    background: url(xbox-assets/quadrant.svg);
+}
+
+.xbox .back, .xbox .start {
+    background: url(https://raw.githubusercontent.com/Geusen/GamepadViewer-skins/a4cf3332e4f9cd3675aba532fd92b6f300ae1506/Xbox/red/start-select.svg);
+}
+
+.xbox .button {
+    background: url(xbox-assets/abxy.svg);
+}
+
+.xbox .stick {
+    background: url(xbox-assets/stick.svg);
+}
+
+.xbox .face {
+    background: url(https://raw.githubusercontent.com/Geusen/GamepadViewer-skins/a4cf3332e4f9cd3675aba532fd92b6f300ae1506/Xbox/red/dpad.svg);}
