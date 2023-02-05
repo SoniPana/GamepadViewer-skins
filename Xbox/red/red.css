@@ -1,5 +1,5 @@
 .xbox.white {
-    background: url(https://raw.githubusercontent.com/Geusen/GamepadViewer-skins/a4cf3332e4f9cd3675aba532fd92b6f300ae1506/Xbox/red/base.svg);
+    background: url(https://raw.githubusercontent.com/Geusen/GamepadViewer-skins/578b46f07f3716d8025e89e64f9c2fdf8fe1db6c/Xbox/red/base.svg);
 }
 
 .xbox .trigger {
@@ -15,7 +15,7 @@
 }
 
 .xbox .back, .xbox .start {
-    background: url(https://raw.githubusercontent.com/Geusen/GamepadViewer-skins/a4cf3332e4f9cd3675aba532fd92b6f300ae1506/Xbox/red/start-select.svg);
+    background: url(https://raw.githubusercontent.com/Geusen/GamepadViewer-skins/578b46f07f3716d8025e89e64f9c2fdf8fe1db6c/Xbox/red/start-select.svg);
 }
 
 .xbox .button {
