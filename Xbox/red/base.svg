@@ -6,7 +6,7 @@
    height="630.46"
    viewBox="0 0 750 630.46"
    version="1.1"
-   sodipodi:docname="base-white.svg"
+   sodipodi:docname="base.svg"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -352,7 +352,8 @@
          class="cls-18"
          d="M241.57,279.86a56.1,56.1,0,1,1-56.1-56.1A56.09,56.09,0,0,1,241.57,279.86Z"
          id="path520"
-         transform="translate(0 0)" />
+         transform="translate(0 0)"
+         style="fill:#6c1313;fill-opacity:1" />
     </g>
     <g
        id="Right_Stick"
@@ -367,7 +368,8 @@
          class="cls-18"
          d="M529.15,393.82A56.1,56.1,0,1,1,473,337.73,56.09,56.09,0,0,1,529.15,393.82Z"
          id="path525"
-         transform="translate(0 0)" />
+         transform="translate(0 0)"
+         style="fill:#6c1313;fill-opacity:1" />
     </g>
     <g
        id="Button_Base"
