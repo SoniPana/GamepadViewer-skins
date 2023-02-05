@@ -1,5 +1,5 @@
 .controller.xbox {
-    background: url(https://raw.githubusercontent.com/Geusen/GamepadViewer-skins/38b744c63ef3b24e12004872dfa6d3a8015e2738/Xbox/blue/base.svg);
+    background: url(https://raw.githubusercontent.com/Geusen/GamepadViewer-skins/main/Xbox/blue/base.svg);
     height: 630px;
     width: 750px;
     /*    margin-left: -375px;
@@ -7,7 +7,7 @@
 }
 
 .xbox.white {
-    background: url(https://raw.githubusercontent.com/Geusen/GamepadViewer-skins/38b744c63ef3b24e12004872dfa6d3a8015e2738/Xbox/blue/base.svg);
+    background: url(https://raw.githubusercontent.com/Geusen/GamepadViewer-skins/main/Xbox/blue/base.svg);
 }
 
 .xbox.disconnected {
@@ -28,7 +28,7 @@
 .xbox .trigger {
     width: 88px;
     height: 121px;
-    background: url(https://raw.githubusercontent.com/Geusen/GamepadViewer-skins/38b744c63ef3b24e12004872dfa6d3a8015e2738/Xbox/blue/trigger.svg);
+    background: url(https://raw.githubusercontent.com/Geusen/GamepadViewer-skins/main/Xbox/blue/trigger.svg);
     opacity: 0;
 }
 
@@ -45,7 +45,7 @@
 .xbox .bumper {
     width: 170px;
     height: 61px;
-    background: url(https://raw.githubusercontent.com/Geusen/GamepadViewer-skins/38b744c63ef3b24e12004872dfa6d3a8015e2738/Xbox/blue/bumper.svg);
+    background: url(https://raw.githubusercontent.com/Geusen/GamepadViewer-skins/main/Xbox/blue/bumper.svg);
     opacity: 0;
 }
 
@@ -111,7 +111,7 @@
 
 .xbox .back,
 .xbox .start {
-    background: url(https://raw.githubusercontent.com/Geusen/GamepadViewer-skins/38b744c63ef3b24e12004872dfa6d3a8015e2738/Xbox/blue/start-select.svg);
+    background: url(https://raw.githubusercontent.com/Geusen/GamepadViewer-skins/main/Xbox/blue/start-select.svg);
     width: 33px;
     height: 33px;
     opacity: 0;
@@ -215,7 +215,7 @@
 }
 
 .xbox .face {
-    background: url(https://raw.githubusercontent.com/Geusen/GamepadViewer-skins/38b744c63ef3b24e12004872dfa6d3a8015e2738/Xbox/blue/dpad.svg);
+    background: url(https://raw.githubusercontent.com/Geusen/GamepadViewer-skins/main/Xbox/blue/dpad.svg);
     position: absolute;
     opacity: 0;
 }
