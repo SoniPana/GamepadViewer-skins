@@ -24,8 +24,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="1.2911207"
-     inkscape:cx="363.63757"
-     inkscape:cy="321.03892"
+     inkscape:cx="204.86078"
+     inkscape:cy="387.64772"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -176,97 +176,115 @@
        y2="192.42"
        id="line449" />
     <g
-       id="Dpad">
+       id="Dpad"
+       style="stroke:#000000;stroke-opacity:1">
       <g
-         id="g455">
+         id="g455"
+         style="stroke:#000000;stroke-opacity:1">
         <path
            class="cls-3"
            d="M277.67,462.11a60.63,60.63,0,1,1,60.62-60.62A60.69,60.69,0,0,1,277.67,462.11Z"
            id="path451"
            transform="translate(0 0)"
-           style="fill:#ae1f1f;fill-opacity:1" />
+           style="fill:#ae1f1f;fill-opacity:1;stroke:#000000;stroke-opacity:1" />
         <path
            class="cls-4"
            d="M277.67,341.86A59.63,59.63,0,1,1,218,401.49a59.69,59.69,0,0,1,59.64-59.63m0-2a61.63,61.63,0,1,0,61.62,61.63,61.63,61.63,0,0,0-61.62-61.63Z"
            id="path453"
            transform="translate(0 0)"
-           style="fill:#e5e5e5;fill-opacity:1" />
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1" />
       </g>
       <g
-         id="g487">
+         id="g487"
+         style="stroke:#000000;stroke-opacity:1">
         <g
-           id="g461">
+           id="g461"
+           style="stroke:#000000;stroke-opacity:1">
           <path
              class="cls-5"
              d="M277.67,452.7c-7.13,0-12.74-1.32-13.05-3.08a.76.76,0,0,1,0-.15V415.05a.5.5,0,0,0-.5-.5H229.69c-1.82,0-3.25-5.74-3.25-13.06s1.43-13.06,3.25-13.06h34.42a.5.5,0,0,0,.5-.5V353.51a.61.61,0,0,1,0-.14l.06-.23.08-.13c.5-.81,2.11-1.52,4.54-2l.89-.18a9.49,9.49,0,0,1,1-.13l.16,0,.9-.11,1-.11,1-.08,2.36-.08h1.05c7.33,0,13.06,1.42,13.06,3.23,0,.17,0,16,0,34.42a.5.5,0,0,0,.5.5h34.41c1.81,0,3.23,5.74,3.23,13.06s-1.42,13.06-3.23,13.06H291.24a.5.5,0,0,0-.5.5v34.42a.77.77,0,0,1,0,.15C290.42,451.38,284.8,452.7,277.67,452.7Z"
              id="path457"
-             transform="translate(0 0)" />
+             transform="translate(0 0)"
+             style="stroke:#000000;stroke-opacity:1" />
           <path
              class="cls-6"
              d="M277.67,350.78c8.09,0,12.56,1.61,12.56,2.73v34.43a1,1,0,0,0,1,1h34.42c1.14,0,2.73,4.77,2.73,12.55s-1.59,12.56-2.73,12.56H291.23a1,1,0,0,0-1,1v34.49c-.2,1.11-4.67,2.66-12.56,2.66s-12.36-1.55-12.56-2.66V415.05a1,1,0,0,0-1-1H229.69c-1.15,0-2.75-4.78-2.75-12.56s1.6-12.56,2.75-12.56h34.42a1,1,0,0,0,1-1V353.47h0a.74.74,0,0,0,0-.14l0-.05c.15-.25.91-1.12,4.19-1.76h.06c.27-.07.55-.12.83-.17l.08,0a6.73,6.73,0,0,1,.8-.11l.18,0,.92-.12h0l1-.11h0l1-.08h.12l.58,0h.56l1,0h1.15m0-1h-1.18l-1,0h-.17l-1,0h-.14l-1,.08h0l-1,.11h0l-1,.13h-.05a8.88,8.88,0,0,0-.94.13h-.08l-.88.18h0c-2.43.48-4.25,1.22-4.86,2.23a.46.46,0,0,0-.11.16v0a1.16,1.16,0,0,0,0,.18l0,0a.89.89,0,0,0,0,.14.86.86,0,0,0,0,.22v34.43H229.69c-5,0-5,27.11,0,27.11h34.42v34.42h0a1,1,0,0,0,0,.24c.4,2.33,7,3.49,13.54,3.49s13.13-1.16,13.54-3.49a2.12,2.12,0,0,0,0-.24V415.05h34.42c5,0,5-27.11,0-27.11H291.23V353.51h0c0-2.5-6.79-3.73-13.56-3.73Z"
              id="path459"
-             transform="translate(0 0)" />
+             transform="translate(0 0)"
+             style="stroke:#000000;stroke-opacity:1" />
         </g>
         <path
            class="cls-7"
            d="M264.11,387.94l-3.6-3.63H229.69a5.08,5.08,0,0,0-2.78.85l2.78,2.78Z"
            id="path463"
-           transform="translate(0 0)" />
+           transform="translate(0 0)"
+           style="stroke:#000000;stroke-opacity:1" />
         <path
            class="cls-8"
            d="M229.69,387.94h0l-2.79-2.78c-1.36.93-2.67,2.74-3.52,6.14a50.92,50.92,0,0,0,0,20.38c.85,3.4,2.16,5.21,3.52,6.14l2.79-2.77C224.69,415.05,224.69,387.94,229.69,387.94Z"
            id="path465"
-           transform="translate(0 0)" />
+           transform="translate(0 0)"
+           style="stroke:#000000;stroke-opacity:1" />
         <path
            class="cls-7"
            d="M269.2,350.52h0l.89-.18h.07a6.87,6.87,0,0,1,.94-.13h.06l1-.13h0l1-.11h.05l1-.08h.14l1,0h.16l1,0h1.17c6.77,0,13.57,1.23,13.57,3.73l2.75-2.77c-.9-1.37-2.71-2.71-6.14-3.53a50.82,50.82,0,0,0-20.36,0c-2.94.72-4.71,1.8-5.72,3l2.57,2.57C265,351.74,266.77,351,269.2,350.52Z"
            id="path467"
-           transform="translate(0 0)" />
+           transform="translate(0 0)"
+           style="stroke:#000000;stroke-opacity:1" />
         <path
            class="cls-9"
            d="M325.65,387.94l2.76-2.78a5,5,0,0,0-2.76-.85H294.84l-3.61,3.63Z"
            id="path469"
-           transform="translate(0 0)" />
+           transform="translate(0 0)"
+           style="stroke:#000000;stroke-opacity:1" />
         <path
            class="cls-10"
            d="M291.23,353.51h0s0,15.44,0,34.42l3.6-3.62h0v-30.8a5,5,0,0,0-.85-2.77l-2.76,2.77Z"
            id="path471"
-           transform="translate(0 0)" />
+           transform="translate(0 0)"
+           style="stroke:#000000;stroke-opacity:1" />
         <path
            class="cls-8"
            d="M264.11,353.51a1.8,1.8,0,0,1,0-.22l0-.14,0,0c0-.06,0-.12,0-.18v0a1,1,0,0,1,.11-.17l-2.57-2.57a5,5,0,0,0-1.26,3.34v30.8l3.6,3.62Z"
            id="path473"
-           transform="translate(0 0)" />
+           transform="translate(0 0)"
+           style="stroke:#000000;stroke-opacity:1" />
         <path
            class="cls-11"
            d="M325.65,415.05H291.23l3.6,3.62h32.32l.34-.35a5.46,5.46,0,0,0,.92-.49l-2.76-2.78Z"
            id="path475"
-           transform="translate(0 0)" />
+           transform="translate(0 0)"
+           style="stroke:#000000;stroke-opacity:1" />
         <path
            class="cls-12"
            d="M291.23,449.47l2.76,2.77a5,5,0,0,0,.84-2.77v-30.8l-3.6-3.62Z"
            id="path477"
-           transform="translate(0 0)" />
+           transform="translate(0 0)"
+           style="stroke:#000000;stroke-opacity:1" />
         <path
            class="cls-12"
            d="M332,391.3c-.84-3.4-2.18-5.21-3.55-6.14l-2.76,2.77c5,0,5,27.12,0,27.12l2.77,2.78c1.36-.93,2.7-2.75,3.54-6.15a45,45,0,0,0,1-10.19A45.54,45.54,0,0,0,332,391.3Z"
            id="path479"
-           transform="translate(0 0)" />
+           transform="translate(0 0)"
+           style="stroke:#000000;stroke-opacity:1" />
         <path
            class="cls-11"
            d="M291.21,449.71c-.4,2.33-7,3.49-13.54,3.49s-13.13-1.16-13.54-3.49a2.32,2.32,0,0,1,0-.24l-2.79,2.77c.93,1.37,2.75,2.71,6.17,3.53a50.34,50.34,0,0,0,20.36,0c3.43-.82,5.24-2.16,6.14-3.53l-2.75-2.77C291.23,449.54,291.23,449.62,291.21,449.71Z"
            id="path481"
-           transform="translate(0 0)" />
+           transform="translate(0 0)"
+           style="stroke:#000000;stroke-opacity:1" />
         <path
            class="cls-10"
            d="M264.11,449.47h0V415.05l-3.6,3.62v31.65l.09.23a5.09,5.09,0,0,0,.72,1.69l2.79-2.77Z"
            id="path483"
-           transform="translate(0 0)" />
+           transform="translate(0 0)"
+           style="stroke:#000000;stroke-opacity:1" />
         <path
            class="cls-13"
            d="M229.69,415.05l-2.79,2.77a5.11,5.11,0,0,0,2.79.85h30.82l3.6-3.62Z"
            id="path485"
-           transform="translate(0 0)" />
+           transform="translate(0 0)"
+           style="stroke:#000000;stroke-opacity:1" />
       </g>
     </g>
     <g
@@ -341,35 +359,37 @@
     </g>
     <g
        id="Left_Stick"
-       data-name="Left Stick">
+       data-name="Left Stick"
+       style="stroke:#000000;stroke-opacity:1">
       <path
          class="cls-17"
          d="M185.47,351.49a67.69,67.69,0,1,1,67.71-67.69A67.77,67.77,0,0,1,185.47,351.49Z"
          id="path518"
          transform="translate(0 0)"
-         style="fill:#ae1f1f;fill-opacity:1" />
+         style="fill:#ae1f1f;fill-opacity:1;stroke:#000000;stroke-opacity:1" />
       <path
          class="cls-18"
          d="M241.57,279.86a56.1,56.1,0,1,1-56.1-56.1A56.09,56.09,0,0,1,241.57,279.86Z"
          id="path520"
          transform="translate(0 0)"
-         style="fill:#b83013;fill-opacity:1" />
+         style="fill:#b83013;fill-opacity:1;stroke:#000000;stroke-opacity:1" />
     </g>
     <g
        id="Right_Stick"
-       data-name="Right Stick">
+       data-name="Right Stick"
+       style="stroke:#000000;stroke-opacity:1">
       <path
          class="cls-17"
          d="M473,465.46a67.7,67.7,0,1,1,67.71-67.68A67.77,67.77,0,0,1,473,465.46Z"
          id="path523"
          transform="translate(0 0)"
-         style="fill:#ae1f1f;fill-opacity:1" />
+         style="fill:#ae1f1f;fill-opacity:1;stroke:#000000;stroke-opacity:1" />
       <path
          class="cls-18"
          d="M529.15,393.82A56.1,56.1,0,1,1,473,337.73,56.09,56.09,0,0,1,529.15,393.82Z"
          id="path525"
          transform="translate(0 0)"
-         style="fill:#b83015;fill-opacity:1" />
+         style="fill:#b83015;fill-opacity:1;stroke:#000000;stroke-opacity:1" />
     </g>
     <g
        id="Button_Base"
