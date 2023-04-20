@@ -22,9 +22,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="8.8518846"
-     inkscape:cx="85.687967"
-     inkscape:cy="31.462227"
+     inkscape:zoom="6.2592276"
+     inkscape:cx="72.133501"
+     inkscape:cy="29.796009"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -82,4 +82,12 @@
        transform="translate(0 0)"
        id="path3553" />
   </g>
+  <rect
+     style="fill:#fcfcfc;fill-opacity:1;stroke:#fcfcfc;stroke-width:3.958;stroke-dasharray:none;stroke-opacity:1"
+     id="rect52064"
+     width="168.14333"
+     height="43.055202"
+     x="2.3607216"
+     y="17.694"
+     ry="11.59639" />
 </svg>
