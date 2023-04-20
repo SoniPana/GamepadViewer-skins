@@ -23,15 +23,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="3.6518408"
-     inkscape:cx="442.9273"
-     inkscape:cy="139.79251"
+     inkscape:zoom="20.657931"
+     inkscape:cx="593.0652"
+     inkscape:cy="108.69917"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="Layer_1-2" />
+     inkscape:current-layer="g601" />
   <defs
      id="defs435">
     <style
@@ -434,6 +434,14 @@
            id="path591"
            transform="translate(0 0)"
            style="fill:#c12222;fill-opacity:1" />
+        <rect
+           style="fill:none;fill-opacity:1;stroke:#cbcbcb;stroke-width:2.28072;stroke-dasharray:none;stroke-opacity:1"
+           id="rect52064-2-2"
+           width="86.719276"
+           height="27.719276"
+           x="511.14035"
+           y="93.040359"
+           ry="7.4658461" />
       </g>
       <g
          id="g599">
@@ -449,6 +457,14 @@
            id="path597"
            style="fill:#c42323;fill-opacity:1"
            transform="translate(0 0)" />
+        <rect
+           style="fill:none;fill-opacity:1;stroke:#cbcbcb;stroke-width:2.28072;stroke-dasharray:none;stroke-opacity:1"
+           id="rect52064-2-2-8"
+           width="86.719276"
+           height="27.719276"
+           x="152.32846"
+           y="93.040359"
+           ry="7.4658461" />
       </g>
     </g>
   </g>

@@ -23,8 +23,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="6.6830869"
-     inkscape:cx="44.515357"
-     inkscape:cy="60.974817"
+     inkscape:cx="44.81462"
+     inkscape:cy="85.215112"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -65,4 +65,12 @@
        id="path10279"
        style="fill:#53d5e1;fill-opacity:1" />
   </g>
+  <rect
+     style="fill:#cbcbcb;fill-opacity:1;stroke:#cbcbcb;stroke-width:2.28072;stroke-dasharray:none;stroke-opacity:1"
+     id="rect52064-2-2"
+     width="86.719284"
+     height="27.719278"
+     x="1.1403608"
+     y="93.140358"
+     ry="7.4658465" />
 </svg>
