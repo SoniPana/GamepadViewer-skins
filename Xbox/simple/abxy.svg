@@ -23,8 +23,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="7.7465866"
-     inkscape:cx="107.98304"
-     inkscape:cy="48.602051"
+     inkscape:cx="108.24122"
+     inkscape:cy="48.86023"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -128,53 +128,62 @@
     </g>
   </g>
   <g
-     id="g2354">
+     id="g2354"
+     style="stroke-width:4.5;stroke-dasharray:none">
     <g
-       id="g2325">
+       id="g2325"
+       style="stroke-width:4.5;stroke-dasharray:none">
       <g
          id="A-2"
-         data-name="A">
+         data-name="A"
+         style="stroke-width:4.5;stroke-dasharray:none">
         <path
            class="cls-7"
            d="m 23.684455,51.223867 a 21.83137,21.83137 0 1 1 -21.84059,21.83137 21.83137,21.83137 0 0 1 21.84059,-21.83137 z"
            id="path2318"
-           style="fill:#51dffb;fill-opacity:1;stroke:#51dffb;stroke-width:3.68773;stroke-dasharray:none;stroke-opacity:1" />
+           style="fill:#51dffb;fill-opacity:1;stroke:#51dffb;stroke-width:4.5;stroke-dasharray:none;stroke-opacity:1" />
       </g>
     </g>
     <g
-       id="g2334">
+       id="g2334"
+       style="stroke-width:4.5;stroke-dasharray:none">
       <g
          id="B-2"
-         data-name="B">
+         data-name="B"
+         style="stroke-width:4.5;stroke-dasharray:none">
         <path
            class="cls-7"
            d="M 73.065206,51.213145 A 21.832061,21.832061 0 1 1 51.233145,73.045206 21.841277,21.841277 0 0 1 73.065206,51.213145 Z"
            id="path2327"
-           style="stroke:#51dffb;stroke-width:3.68629;stroke-dasharray:none;stroke-opacity:1;fill:#51dffb;fill-opacity:1" />
+           style="stroke:#51dffb;stroke-width:4.5;stroke-dasharray:none;stroke-opacity:1;fill:#51dffb;fill-opacity:1" />
       </g>
     </g>
     <g
-       id="g2343">
+       id="g2343"
+       style="stroke-width:4.5;stroke-dasharray:none">
       <g
          id="Y-2"
-         data-name="Y">
+         data-name="Y"
+         style="stroke-width:4.5;stroke-dasharray:none">
         <path
            class="cls-7"
            d="M 171.85521,51.213145 A 21.832061,21.832061 0 1 1 150.02315,73.045206 21.841277,21.841277 0 0 1 171.85521,51.213145 Z"
            id="path2336"
-           style="stroke:#51fb5f;stroke-width:3.68629;stroke-dasharray:none;stroke-opacity:1;fill:#51fb5f;fill-opacity:1" />
+           style="stroke:#51fb5f;stroke-width:4.5;stroke-dasharray:none;stroke-opacity:1;fill:#51fb5f;fill-opacity:1" />
       </g>
     </g>
     <g
-       id="g2352">
+       id="g2352"
+       style="stroke-width:4.5;stroke-dasharray:none">
       <g
          id="X-2"
-         data-name="X">
+         data-name="X"
+         style="stroke-width:4.5;stroke-dasharray:none">
         <path
            class="cls-7"
            d="M 122.45599,51.213147 A 21.832061,21.832061 0 1 1 100.63315,73.045208 21.841277,21.841277 0 0 1 122.45599,51.213147 Z"
            id="path2345"
-           style="fill:#51fb5f;stroke:#51fb5f;stroke-width:3.68629;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1" />
+           style="fill:#51fb5f;stroke:#51fb5f;stroke-width:4.5;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1" />
       </g>
     </g>
   </g>
