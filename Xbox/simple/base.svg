@@ -23,15 +23,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="1.8259204"
-     inkscape:cx="320.6602"
-     inkscape:cy="174.98025"
+     inkscape:zoom="3.6518408"
+     inkscape:cx="409.24566"
+     inkscape:cy="139.79251"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g577" />
+     inkscape:current-layer="Layer_1-2" />
   <defs
      id="defs435">
     <style
@@ -297,13 +297,13 @@
            style="fill:#c22323;fill-opacity:1"
            transform="translate(0 0)" />
         <rect
-           style="fill:none;fill-opacity:1;stroke:#fcfcfc;stroke-width:3.958;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:none;fill-opacity:1;stroke:#fcfcfc;stroke-width:2.89434;stroke-dasharray:none;stroke-opacity:1"
            id="rect52064"
-           width="168.14333"
-           height="43.055202"
-           x="473.68701"
-           y="148.12794"
-           ry="11.59639" />
+           width="114.34348"
+           height="33.856461"
+           x="509.25504"
+           y="157.85851"
+           ry="9.1188211" />
       </g>
       <g
          id="LB">
@@ -336,13 +336,13 @@
            id="path570"
            transform="translate(0 0)" />
         <rect
-           style="fill:none;fill-opacity:1;stroke:#fcfcfc;stroke-width:3.95815;stroke-dasharray:none;stroke-opacity:1"
-           id="rect52064-1"
-           width="168.14333"
-           height="43.055202"
-           x="109.0745"
-           y="148.10808"
-           ry="11.59639" />
+           style="fill:none;fill-opacity:1;stroke:#fcfcfc;stroke-width:2.89434;stroke-dasharray:none;stroke-opacity:1"
+           id="rect52064-2"
+           width="114.34348"
+           height="33.856461"
+           x="127.5296"
+           y="157.85817"
+           ry="9.1188211" />
       </g>
       <path
          d="M478.15,152.84l-3.59-6.67c-.33.09-.66.21-1,.31l-1,.27,3.64,6.78,16.38,30.54c.24-.28.5-.54.73-.84s.49-.54.72-.81Z"
