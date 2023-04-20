@@ -23,8 +23,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="7.7465866"
-     inkscape:cx="107.72487"
-     inkscape:cy="48.472962"
+     inkscape:cx="107.98304"
+     inkscape:cy="48.602051"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -90,7 +90,7 @@
            class="cls-1"
            d="M 23.684431,1.843865 A 21.831347,21.831347 0 1 1 1.843865,23.675212 21.840566,21.840566 0 0 1 23.684431,1.843865 Z"
            id="path2280"
-           style="stroke:#51dffb;stroke-width:3.688;stroke-dasharray:none;stroke-opacity:1;fill:none" />
+           style="stroke:none;stroke-width:3.688;stroke-dasharray:none;stroke-opacity:1;fill:none" />
       </g>
     </g>
     <g
@@ -101,7 +101,7 @@
            class="cls-1"
            d="M 73.065206,1.843145 A 21.832061,21.832061 0 1 1 51.233145,23.675206 21.841277,21.841277 0 0 1 73.065206,1.843145 Z"
            id="path2289"
-           style="stroke:#51dffb;stroke-width:3.68629;stroke-dasharray:none;stroke-opacity:1;fill:none" />
+           style="stroke:none;stroke-width:3.68629;stroke-dasharray:none;stroke-opacity:1;fill:none" />
       </g>
     </g>
     <g
@@ -112,7 +112,7 @@
            class="cls-1"
            d="M 171.85521,1.843145 A 21.832061,21.832061 0 1 1 150.02315,23.675206 21.832061,21.832061 0 0 1 171.85521,1.843145 Z"
            id="path2298"
-           style="fill:none;stroke:#51fb60;stroke-width:3.686;stroke-dasharray:none;stroke-opacity:1" />
+           style="fill:none;stroke:none;stroke-width:3.686;stroke-dasharray:none;stroke-opacity:1" />
       </g>
     </g>
     <g
@@ -123,7 +123,7 @@
            class="cls-1"
            d="M 122.45596,1.8431471 A 21.832037,21.832037 0 1 1 100.63315,23.675185 21.841253,21.841253 0 0 1 122.45596,1.8431471 Z"
            id="path2307"
-           style="fill:none;stroke:#51fb5f;stroke-width:3.68629;stroke-dasharray:none;stroke-opacity:1" />
+           style="fill:none;stroke:none;stroke-width:3.68629;stroke-dasharray:none;stroke-opacity:1" />
       </g>
     </g>
   </g>
