@@ -24,14 +24,14 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="3.6518408"
-     inkscape:cx="560.94997"
-     inkscape:cy="289.03231"
+     inkscape:cx="364.88447"
+     inkscape:cy="278.6266"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="Button_Base" />
+     inkscape:current-layer="g587" />
   <defs
      id="defs435">
     <style
@@ -362,7 +362,7 @@
          d="M384,182s8.93-9.44,13.77-8.88h0c-.72-.7-1.48-1.37-2.26-2h0a14.81,14.81,0,0,0-1.18-.91s-.05,0-.06-.06l-1.17-.83h0c-.38-.06-.77-.13-1.18-.17-5.25-.49-16.87,4.51-16.87,4.51s-11.62-5-16.87-4.51c-.41,0-.81.1-1.19.17h0l-1.18.84-.06.05c-.4.29-.8.59-1.19.91h0c-.79.65-1.55,1.32-2.27,2h0C357.07,172.57,366,182,366,182s-17.74,20.89-17,34.09a34.5,34.5,0,0,0,3.62,4C352.22,208.13,375,190,375,190s22.79,18.14,22.35,30.13a33.79,33.79,0,0,0,3.57-4l0,0C401.74,202.89,384,182,384,182Z"
          id="path585"
          transform="translate(0 0)"
-         style="fill:#fcfcfc;fill-opacity:1;stroke:none;stroke-opacity:1" />
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1" />
       <g
          id="Button_Base"
          data-name="Button Base">
