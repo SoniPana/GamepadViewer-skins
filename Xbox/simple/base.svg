@@ -24,8 +24,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="3.6518408"
-     inkscape:cx="364.88447"
-     inkscape:cy="278.6266"
+     inkscape:cx="543.15073"
+     inkscape:cy="289.03231"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -373,7 +373,7 @@
              class="cls-14"
              d="m 566.76,306.38 a 23.7,23.7 0 1 1 -23.69,23.69 23.69,23.69 0 0 1 23.69,-23.69 m 0,-3 a 26.7,26.7 0 1 0 26.71,26.69 26.72,26.72 0 0 0 -26.71,-26.69 z"
              id="path28079"
-             style="fill:#4edefb;fill-opacity:1" />
+             style="fill:#4edefb;fill-opacity:1;stroke:#4edefb;stroke-opacity:1" />
         </g>
         <g
            id="Y">
@@ -381,7 +381,7 @@
              class="cls-14"
              d="m 566.76,205.3 a 23.7,23.7 0 1 1 -23.69,23.7 23.7,23.7 0 0 1 23.69,-23.69 m 0,-3 A 26.7,26.7 0 1 0 593.47,229 26.72,26.72 0 0 0 566.76,202.31 Z"
              id="path28084"
-             style="fill:#52fb60;fill-opacity:1" />
+             style="fill:#52fb60;fill-opacity:1;stroke:#52fb60;stroke-opacity:1" />
         </g>
         <g
            id="B">
@@ -389,7 +389,7 @@
              class="cls-14"
              d="m 617.3,255.84 a 23.7,23.7 0 1 1 -23.69,23.69 23.68,23.68 0 0 1 23.69,-23.69 m 0,-3 a 26.7,26.7 0 1 0 26.7,26.69 26.72,26.72 0 0 0 -26.7,-26.69 z"
              id="path28089"
-             style="fill:#4edefb;fill-opacity:1" />
+             style="fill:#4edefb;fill-opacity:1;stroke:#4edefb;stroke-opacity:1" />
         </g>
         <g
            id="X">
@@ -397,7 +397,7 @@
              class="cls-14"
              d="m 516.22,255.84 a 23.7,23.7 0 1 1 -23.69,23.69 23.69,23.69 0 0 1 23.69,-23.69 m 0,-3 a 26.7,26.7 0 1 0 26.71,26.69 26.72,26.72 0 0 0 -26.71,-26.69 z"
              id="path28094"
-             style="fill:#52fb60;fill-opacity:1;stroke-width:1;stroke-dasharray:none" />
+             style="fill:#52fb60;fill-opacity:1;stroke-width:1;stroke-dasharray:none;stroke:#52fb60;stroke-opacity:1" />
         </g>
       </g>
     </g>
