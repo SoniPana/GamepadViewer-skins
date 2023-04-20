@@ -73,7 +73,7 @@
 
 .xbox .quadrant {
     position: absolute;
-    background: url(xbox-assets/quadrant.svg);
+    background: url(https://raw.githubusercontent.com/Geusen/GamepadViewer-skins/main/Xbox/simple/quadrant.svg);
     height: 45px;
     width: 45px;
     top: 258px;
@@ -141,7 +141,7 @@
 
 .xbox .button {
     position: absolute;
-    background: url(xbox-assets/abxy.svg);
+    background: url(https://raw.githubusercontent.com/Geusen/GamepadViewer-skins/main/Xbox/simple/abxy.svg);
     width: 48px;
     height: 48px;
 }
@@ -186,7 +186,7 @@
 
 .xbox .stick {
     position: absolute;
-    background: url(xbox-assets/stick.svg);
+    background: url(https://raw.githubusercontent.com/Geusen/GamepadViewer-skins/main/Xbox/simple/stick.svg);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
