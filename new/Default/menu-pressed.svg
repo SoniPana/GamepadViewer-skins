@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" width="33.2" height="33.2" viewBox="0 0 33.2 33.2">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f5f5f5;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #929493;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g id="Menu_Pressed" data-name="Menu Pressed">
+      <path class="cls-1" d="m32.7,16.6c0,8.89-7.21,16.1-16.1,16.1S.5,25.49.5,16.6,7.71.5,16.6.5c8.89,0,16.09,7.21,16.1,16.1Z"/>
+      <g>
+        <rect class="cls-2" x="9.4" y="11.98" width="14.36" height="1.55"/>
+        <rect class="cls-2" x="9.4" y="15.9" width="14.36" height="1.55"/>
+        <rect class="cls-2" x="9.4" y="19.71" width="14.36" height="1.53"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_2"
+   data-name="Layer 2"
+   width="47.36"
+   height="47.36"
+   viewBox="0 0 47.36 47.36"
+   version="1.1"
+   sodipodi:docname="a-pressed.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview19329"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="6.0766988"
+     inkscape:cx="-35.463334"
+     inkscape:cy="14.728392"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_2" />
+  <defs
+     id="defs19318">
+    <style
+       id="style19316">
+      .cls-1 {
+        fill: #c64ab5;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g
+     id="Layer_1-2"
+     data-name="Layer 1">
+    <g
+       id="g19325">
+      <g
+         id="A-2"
+         style="display:inline">
+        <path
+           class="cls-2"
+           d="M 23.69,0 C 36.77,0 47.37,10.61 47.36,23.69 47.36,36.77 36.75,47.37 23.67,47.36 10.6,47.35 0,36.75 0,23.68 0,10.6 10.6,0 23.68,0 Z"
+           id="path19320"
+           style="display:inline;fill:#52fb60;fill-opacity:1" />
+      </g>
+      <path
+         class="cls-1"
+         d="M 32.45,38.83 29.67,31.17 H 17.54 L 14.9,38.83 H 9.42 L 20.88,8.52 h 5.59 L 38,38.83 Z M 23.66,13.08 h -0.13 c -0.08,0.74 -0.23,1.46 -0.45,2.17 l -4.14,11.68 h 9.3 L 24.07,15.25 c -0.2,-0.71 -0.34,-1.44 -0.41,-2.17 z"
+         id="path19323"
+         style="display:none" />
+    </g>
+  </g>
+</svg>

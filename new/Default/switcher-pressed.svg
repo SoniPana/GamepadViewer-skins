@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" width="33.22" height="33.22" viewBox="0 0 33.22 33.22">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f5f5f5;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #929493;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g id="Switcher_PRessed" data-name="Switcher PRessed">
+      <path class="cls-1" d="m32.72,16.6c0,8.9-7.2,16.11-16.1,16.12-8.9,0-16.11-7.2-16.12-16.1C.49,7.72,7.7.51,16.6.5c0,0,0,0,0,0,8.89-.01,16.1,7.18,16.11,16.07,0,.01,0,.02,0,.03Z"/>
+      <g>
+        <polygon class="cls-2" points="14.1 16.5 11.07 16.5 11.07 12.72 16.54 12.72 16.54 14.04 18.34 14.04 18.34 10.98 9.45 10.98 9.45 18.37 14.1 18.37 14.1 16.5"/>
+        <path class="cls-2" d="m14.85,14.66v7.59h9v-7.59h-9Zm7.16,5.79h-5.47v-3.95h5.47v3.95Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   width="38.03"
+   height="38.29"
+   viewBox="0 0 38.03 38.29"
+   version="1.1"
+   sodipodi:docname="quadrant.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview46128"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="22.564638"
+     inkscape:cx="19.078525"
+     inkscape:cy="19.255793"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs46095">
+    <style
+       id="style46093">
+      .cls-1 {
+        fill: #1a1a1a;
+      }
+
+      .cls-2 {
+        fill: #dedede;
+      }
+
+      .cls-3 {
+        isolation: isolate;
+        opacity: 0.8;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g
+     id="g46125"
+     style="display:none">
+    <g
+       id="g46101">
+      <rect
+         class="cls-1"
+         x="10.2"
+         y="29.26"
+         width="8.54"
+         height="8.5299997"
+         id="rect46097" />
+      <path
+         class="cls-2"
+         d="m 16.88,28.14 v 7.52 H 9.34 v -7.52 h 7.54 m 1,-1 H 8.34 v 9.52 h 9.53 v -9.52 z"
+         transform="translate(1.37,1.62)"
+         id="path46099" />
+    </g>
+    <g
+       id="g46111">
+      <image
+         class="cls-3"
+         width="29"
+         height="29"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB0AAAAdCAYAAABWk2cPAAAACXBIWXMAAAsSAAALEgHS3X78AAACSUlEQVRIS72W247bMAxEj9vcG6TYLvr/X7godjdXJ6n7QE7EyLST9qEECCUSxdFQJOWm6zr+t0weGVTSjKw9ffox0AhQg8X/AtNcBE8PMgTaUJw0idbSJRrX7iQDjc6/JFoDC+R3otHmJjVoDfbVbaJqTSKAS6VX7sFvwBG0ZjgBZq5z16mrGIvh2fXk2rpeSEKdhVcMZ8ACWAHffFz4vBiLYQscgT2w8xFK6K8EycIbWa6ATdA1sPQ1gbbAAdgCH9iB8bUY4tHwCnSOMdwAr67ffW6OOb9i4dwB71jo8XmF/BJ8p+GtQcX0Ffjp4wZjK9ADxnDmPnS3Byzkuv+bCDTWpECn2B2uMYYCfsEOI9A9dkCwUG+BT9+vu4/+u7GSmWKnX1LC/AL8wEAnWOgWvveEMdadxyxPmUKfbUyoOeZs5bqmgIKFcel2Mbt7LOFx741NQhobBT7G9RqsJ2OgsbVdg6rjEH7H9V6J1BJBuzDG1tZSsnFPuUOFd+96oHSjC33wtE61EFubCn+HJYmy9Mh99v7y9Z3bt75foGnD77jvpRffdMRK4J1ShyfyOn1zu63vU2Posc2YCvSEsfigdJqWwjjrSG++vvf5GhTo32kNuqP00jPG4lHvVZhr0NE7jQmk10KMPnn+lYkJNfqIQymRNvw/Y2z+9j1VCd1JVjJQGOgtVFLFThNtZZ99OXQ8EV4qYzn8l2+kHiBAM/CxHR03idbSJQoJIAy3wWjY0QeqmUap9/ZkiOmQDDZxBgAyGWv4mTzteEz+AJlzJjollqy7AAAAAElFTkSuQmCC"
+         id="image46103" />
+      <g
+         id="g46109">
+        <rect
+           class="cls-4"
+           x="10.2"
+           y="10.46"
+           width="8.54"
+           height="8.54"
+           id="rect46105" />
+        <path
+           class="cls-2"
+           d="m 16.88,9.34 v 7.53 H 9.34 V 9.34 h 7.54 m 1,-1 H 8.34 v 9.53 h 9.53 V 8.34 Z"
+           transform="translate(1.37,1.62)"
+           id="path46107" />
+      </g>
+    </g>
+    <g
+       id="g46117">
+      <rect
+         class="cls-1"
+         x="28.99"
+         y="10.46"
+         width="8.54"
+         height="8.54"
+         id="rect46113" />
+      <path
+         class="cls-2"
+         d="m 35.66,9.34 v 7.53 H 28.13 V 9.34 h 7.53 m 1,-1 h -9.53 v 9.53 h 9.53 z"
+         transform="translate(1.37,1.62)"
+         id="path46115" />
+    </g>
+    <g
+       id="g46123">
+      <rect
+         class="cls-1"
+         x="28.99"
+         y="29.26"
+         width="8.54"
+         height="8.5299997"
+         id="rect46119" />
+      <path
+         class="cls-2"
+         d="m 35.66,28.14 v 7.52 h -7.53 v -7.52 h 7.53 m 1,-1 h -9.53 v 9.52 h 9.53 z"
+         transform="translate(1.37,1.62)"
+         id="path46121" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_2"
+   data-name="Layer 2"
+   width="47.38"
+   height="47.38"
+   viewBox="0 0 47.38 47.38"
+   version="1.1"
+   sodipodi:docname="b-pressed.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview21285"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="17.180244"
+     inkscape:cx="21.390848"
+     inkscape:cy="23.719104"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_2" />
+  <defs
+     id="defs21274">
+    <style
+       id="style21272">
+      .cls-1 {
+        fill: #3ed8d2;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g
+     id="Layer_1-2"
+     data-name="Layer 1">
+    <g
+       id="g21281">
+      <g
+         id="B-2">
+        <path
+           class="cls-2"
+           d="m23.69,0c13.08,0,23.69,10.61,23.69,23.69s-10.61,23.69-23.69,23.69S0,36.77,0,23.69h0C0,10.61,10.61,0,23.69,0Z"
+           id="path21276"
+           style="fill:#fb4e4e;fill-opacity:1" />
+      </g>
+      <path
+         class="cls-1"
+         d="m 33.9,30.01 c 0.07,2.47 -1.01,4.83 -2.93,6.39 -2.15,1.69 -4.83,2.56 -7.56,2.44 H 13.5 V 8.53 h 9.57 c 2.43,-0.12 4.84,0.54 6.87,1.89 1.64,1.17 2.59,3.08 2.52,5.09 0.02,1.58 -0.51,3.11 -1.5,4.34 -1.02,1.29 -2.42,2.22 -4,2.67 v 0.11 c 1.92,0.15 3.72,1 5.07,2.37 1.25,1.37 1.92,3.16 1.87,5.01 z M 27.13,16.47 c 0.05,-1.09 -0.45,-2.14 -1.33,-2.79 -1.2,-0.74 -2.6,-1.09 -4,-1 h -3.26 v 8.38 h 3.23 c 1.43,0.1 2.86,-0.33 4,-1.2 0.94,-0.87 1.44,-2.11 1.36,-3.39 z m 1.48,13.41 c 0.06,-1.32 -0.51,-2.59 -1.55,-3.41 -1.38,-0.91 -3.03,-1.33 -4.68,-1.21 h -3.84 v 9.42 h 4.24 c 1.52,0.09 3.03,-0.38 4.24,-1.31 1.05,-0.85 1.64,-2.14 1.59,-3.49 z"
+         id="path21279"
+         style="display:none" />
+    </g>
+  </g>
+</svg>

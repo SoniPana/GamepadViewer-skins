@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_2"
+   data-name="Layer 2"
+   width="33.22"
+   height="33.22"
+   viewBox="0 0 33.22 33.22"
+   version="1.1"
+   sodipodi:docname="switcher-pressed.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview10416"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="24.50331"
+     inkscape:cx="14.997974"
+     inkscape:cy="16.630406"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_2" />
+  <defs
+     id="defs10403">
+    <style
+       id="style10401">
+      .cls-1 {
+        fill: #f5f5f5;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #929493;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <g
+     id="Layer_1-2"
+     data-name="Layer 1">
+    <g
+       id="Switcher_PRessed"
+       data-name="Switcher PRessed">
+      <path
+         class="cls-1"
+         d="m32.72,16.6c0,8.9-7.2,16.11-16.1,16.12-8.9,0-16.11-7.2-16.12-16.1C.49,7.72,7.7.51,16.6.5c0,0,0,0,0,0,8.89-.01,16.1,7.18,16.11,16.07,0,.01,0,.02,0,.03Z"
+         id="path10405"
+         style="fill:#50fbd0;fill-opacity:1" />
+      <g
+         id="g10411"
+         style="display:none">
+        <polygon
+           class="cls-2"
+           points="11.07,16.5 11.07,12.72 16.54,12.72 16.54,14.04 18.34,14.04 18.34,10.98 9.45,10.98 9.45,18.37 14.1,18.37 14.1,16.5 "
+           id="polygon10407" />
+        <path
+           class="cls-2"
+           d="m 14.85,14.66 v 7.59 h 9 v -7.59 z m 7.16,5.79 H 16.54 V 16.5 h 5.47 z"
+           id="path10409" />
+      </g>
+    </g>
+  </g>
+</svg>

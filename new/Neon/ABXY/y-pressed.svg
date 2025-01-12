@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_2"
+   data-name="Layer 2"
+   width="47.38"
+   height="47.38"
+   viewBox="0 0 47.38 47.38"
+   version="1.1"
+   sodipodi:docname="y-pressed.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview25197"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="17.180244"
+     inkscape:cx="21.390848"
+     inkscape:cy="23.719104"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_2" />
+  <defs
+     id="defs25186">
+    <style
+       id="style25184">
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #0311de;
+      }
+    </style>
+  </defs>
+  <g
+     id="Layer_1-2"
+     data-name="Layer 1">
+    <g
+       id="g25193">
+      <g
+         id="Y-2">
+        <path
+           class="cls-1"
+           d="m23.69,0c13.08,0,23.69,10.61,23.69,23.69s-10.61,23.69-23.69,23.69S0,36.77,0,23.69h0C0,10.61,10.61,0,23.69,0Z"
+           id="path25188"
+           style="fill:#fbfb52;fill-opacity:1" />
+      </g>
+      <path
+         class="cls-2"
+         d="m 26.09,27.85 v 11 h -5 V 27.97 L 11.24,8.54 h 5.72 l 6.1,12.64 c 0.18,0.36 0.33,0.73 0.44,1.12 0.1,0.34 0.17,0.61 0.25,0.83 v 0 c 0.15,-0.66 0.38,-1.3 0.69,-1.9 L 30.82,8.54 h 5.31 z"
+         id="path25191"
+         style="display:none" />
+    </g>
+  </g>
+</svg>
