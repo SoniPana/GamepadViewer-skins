@@ -23,8 +23,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="9.7625333"
-     inkscape:cx="37.643918"
-     inkscape:cy="41.741215"
+     inkscape:cx="33.751485"
+     inkscape:cy="41.843647"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -111,5 +111,5 @@
      class="cls-1"
      d="M 81.881866,41.700117 A 40.192341,40.192341 0 1 1 41.679886,1.4981347 40.1827,40.1827 0 0 1 81.881866,41.700117 Z"
      id="path9749"
-     style="fill:none;fill-opacity:1;stroke:#fcfcfc;stroke-width:2.99626;stroke-dasharray:none;stroke-opacity:1" />
+     style="fill:none;fill-opacity:1;stroke:#fcfcfc;stroke-width:2.99626;stroke-dasharray:none;stroke-opacity:1;opacity:1" />
 </svg>

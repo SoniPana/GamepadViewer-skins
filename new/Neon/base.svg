@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="1.2911207"
-     inkscape:cx="358.21592"
-     inkscape:cy="290.05808"
+     inkscape:zoom="0.9129602"
+     inkscape:cx="68.458625"
+     inkscape:cy="335.7211"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -597,13 +597,13 @@
     <g
        id="Switcher_Key-2"
        data-name="Switcher Key"
-       style="fill:none;fill-opacity:1;stroke:#50fbd1;stroke-width:4;stroke-dasharray:none;stroke-opacity:0.66666669"
+       style="fill:none;fill-opacity:1;stroke:#50fbd0;stroke-width:4;stroke-dasharray:none;stroke-opacity:1"
        transform="matrix(0.90340571,0,0,0.90340571,31.126046,27.072016)">
       <path
          class="cls-14"
          d="m 340.94,280.37 a 18.81,18.81 0 1 1 -18.82,-18.81 18.81,18.81 0 0 1 18.82,18.81 z"
          id="path505"
-         style="fill:none;fill-opacity:1;stroke:#50fbd1;stroke-width:4;stroke-dasharray:none;stroke-opacity:0.66666669" />
+         style="fill:none;fill-opacity:1;stroke:#50fbd0;stroke-width:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <g
        id="Left_Stick-4"
@@ -720,8 +720,9 @@
     <g
        id="Button_Base-3"
        data-name="Button Base"
-       style="stroke:none;stroke-opacity:1;stroke-width:2;stroke-dasharray:none"
-       inkscape:label="ABXY">
+       style="stroke:none;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:label="ABXY"
+       transform="translate(0,-0.90018534)">
       <g
          id="A-4"
          style="fill:#4edefb;fill-opacity:1;stroke-width:2;stroke-dasharray:none"
@@ -760,7 +761,7 @@
            class="cls-14"
            d="m 516.22,255.84 a 23.7,23.7 0 1 1 -23.69,23.69 23.69,23.69 0 0 1 23.69,-23.69 m 0,-3 a 26.7,26.7 0 1 0 26.71,26.69 26.72,26.72 0 0 0 -26.71,-26.69 z"
            id="path28094"
-           style="fill:#4edefb;fill-opacity:0.9254902;stroke:#4edefb;stroke-width:2;stroke-dasharray:none;stroke-opacity:1" />
+           style="fill:#4edefb;fill-opacity:0.92549;stroke:#4edefb;stroke-width:2;stroke-dasharray:none;stroke-opacity:1" />
       </g>
     </g>
     <g
