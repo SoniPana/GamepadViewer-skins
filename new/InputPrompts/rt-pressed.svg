@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" width="88.93" height="121.79" viewBox="0 0 88.93 121.79">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e5e5e5;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #ebebeb;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g id="LT_Pressed" data-name="LT Pressed">
+      <path class="cls-1" d="m14.18,55.41v.67c-.01-.22-.01-.45,0-.67Z"/>
+      <path class="cls-1" d="m88.93,121.79l-53.25-7.22,2.32-110c.41.28.81.58,1.21.9,6.72,5.29,37.65-.47,49.72,116.32Z"/>
+      <path class="cls-2" d="m38,4.62s2.03,22.28,1.22,59.78c-.68,29.69-.68,50.6-.68,50.6,0,0-28.61-3.06-38.54-5.35,1.76-31,1.76-62.09,0-93.09v-1.23C.12,11.58,1.36.55,12.19.14c12.25-.45,19.4-.05,25.81,4.48Z"/>
+    </g>
+  </g>
+</svg>
