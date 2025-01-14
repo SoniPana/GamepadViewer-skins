@@ -21,8 +21,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="4.4967572"
-     inkscape:cx="-1.5566773"
-     inkscape:cy="33.468563"
+     inkscape:cx="-7.2274305"
+     inkscape:cy="33.690945"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -41,4 +41,11 @@
        id="path3765"
        style="fill:#a747eb;fill-opacity:1" />
   </g>
+  <rect
+     style="fill:#a747eb;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0"
+     id="rect286"
+     width="50.258438"
+     height="50.925587"
+     x="16.666666"
+     y="3.7038736" />
 </svg>
