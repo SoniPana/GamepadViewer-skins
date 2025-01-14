@@ -2,11 +2,11 @@
 <svg
    id="Layer_2"
    data-name="Layer 2"
-   width="31.42"
-   height="51.332001"
-   viewBox="0 0 31.419998 51.332001"
+   width="32"
+   height="52.279999"
+   viewBox="0 0 31.999998 52.279999"
    version="1.1"
-   sodipodi:docname="up-pressed - コピー.svg"
+   sodipodi:docname="up.svg"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -23,7 +23,7 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="8"
-     inkscape:cx="33.1875"
+     inkscape:cx="31.625"
      inkscape:cy="24.0625"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
@@ -62,7 +62,7 @@
   </defs>
   <path
      id="rect7618"
-     style="display:inline;fill:#47eb99;fill-opacity:1;fill-rule:evenodd;stroke-width:3.32859;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0"
-     d="M 0,0 H 31.41992 V 35.64416 L 15.70996,51.33203 v 0 L 0,35.62037 Z"
+     style="display:inline;fill:#47eb99;fill-opacity:1;fill-rule:evenodd;stroke-width:3.39004;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0"
+     d="M 0,0 H 32 V 36.302229 L 16,52.279731 v 0 L 0,36.277999 Z"
      sodipodi:nodetypes="ccccccc" />
 </svg>

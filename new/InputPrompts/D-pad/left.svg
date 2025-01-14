@@ -2,9 +2,9 @@
 <svg
    id="Layer_2"
    data-name="Layer 2"
-   width="51.332001"
-   height="31.42"
-   viewBox="0 0 51.331997 31.42"
+   width="52.279999"
+   height="32"
+   viewBox="0 0 52.279996 32"
    version="1.1"
    sodipodi:docname="left.svg"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
@@ -23,7 +23,7 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="8"
-     inkscape:cx="30"
+     inkscape:cx="28.375"
      inkscape:cy="24.0625"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
@@ -62,7 +62,7 @@
   </defs>
   <path
      id="rect7618"
-     style="display:inline;fill:#47eb99;fill-opacity:1;fill-rule:evenodd;stroke-width:3.32859;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0"
-     d="M -1.4633789e-5,4.0038147e-5 V 31.41996 H 35.644145 L 51.332015,15.71 v 0 L 35.620355,4.0038147e-5 Z"
+     style="display:inline;fill:#47eb99;fill-opacity:1;fill-rule:evenodd;stroke-width:3.39004;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0"
+     d="M 0,0 V 32 H 36.302228 L 52.27973,16 v 0 L 36.277998,0 Z"
      sodipodi:nodetypes="ccccccc" />
 </svg>
