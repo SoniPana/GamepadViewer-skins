@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="37.619999"
+   height="25.08"
+   version="1.1"
+   id="svg25666"
+   sodipodi:docname="xbox_button_share_outline.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview25668"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="12.71875"
+     inkscape:cx="28.894349"
+     inkscape:cy="32.039312"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg25666" />
+  <defs
+     id="defs25660" />
+  <g
+     id="g25664">
+    <path
+       stroke="none"
+       fill="#FFFFFF"
+       d="m 25.08,11.75625 h 2.35125 v 6.27 L 26.6475,18.81 h -15.675 l -0.78375,-0.78375 v -6.27 H 12.54 v 4.7025 h 12.54 v -4.7025 M 5.3686875,5.3686875 Q 2.35125,8.3469375 2.35125,12.54 q 0,4.193062 3.0174375,7.2105 2.97825,2.97825 7.1713125,2.97825 h 12.54 q 4.193062,0 7.2105,-2.97825 2.97825,-3.017438 2.97825,-7.2105 0,-4.1930625 -2.97825,-7.1713125 Q 30.723,3.8011875 28.881187,3.056625 27.11775,2.35125 25.08,2.35125 H 12.54 q -2.03775,0 -3.762,0.705375 H 8.7388125 Q 6.897,3.8011875 5.3686875,5.3686875 M 17.2425,10.9725 H 14.89125 V 10.18875 L 18.81,6.27 22.72875,10.18875 V 10.9725 H 20.3775 v 3.135 h -3.135 v -3.135 M 12.54,0 h 12.54 q 2.508,0 4.663313,0.862125 2.272874,0.9013125 4.193062,2.8215 Q 37.62,7.36725 37.62,12.54 q 0,5.17275 -3.683625,8.856375 Q 30.25275,25.08 25.08,25.08 H 12.54 Q 7.36725,25.08 3.683625,21.396375 0,17.71275 0,12.54 0,7.36725 3.683625,3.683625 5.6038125,1.7634375 7.8766875,0.862125 10.032,0 12.54,0"
+       id="path25662"
+       style="fill:#eb477e;fill-opacity:1;stroke-width:0.78375" />
+  </g>
+</svg>

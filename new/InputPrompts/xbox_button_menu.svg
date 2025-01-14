@@ -1,6 +1,44 @@
-<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <defs/>
-  <g>
-    <path stroke="none" fill="#FFFFFF" d="M21 22 L21 26 43 26 43 22 21 22 M56 32 Q56 42 48.95 48.95 42 56 32 56 22.05 56 15 48.95 8 42 8 32 8 22.05 15 15 22.05 8 32 8 42 8 48.95 15 56 22.05 56 32 M21 38 L21 42 43 42 43 38 21 38 M21 30 L21 34 43 34 43 30 21 30"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="37.619999"
+   height="37.619999"
+   version="1.1"
+   id="svg6211"
+   sodipodi:docname="xbox_button_menu.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview6213"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="12.71875"
+     inkscape:cx="27.990172"
+     inkscape:cy="9.3955774"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6211" />
+  <defs
+     id="defs6205" />
+  <g
+     id="g6209"
+     transform="matrix(0.78375,0,0,0.78375,-6.27,-6.27)">
+    <path
+       stroke="none"
+       fill="#FFFFFF"
+       d="m 21,22 v 4 H 43 V 22 H 21 M 56,32 Q 56,42 48.95,48.95 42,56 32,56 22.05,56 15,48.95 8,42 8,32 8,22.05 15,15 22.05,8 32,8 42,8 48.95,15 56,22.05 56,32 m -35,6 v 4 H 43 V 38 H 21 m 0,-8 v 4 H 43 V 30 H 21"
+       id="path6207"
+       style="fill:#eb477e;fill-opacity:1" />
   </g>
 </svg>

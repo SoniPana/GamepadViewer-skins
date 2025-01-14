@@ -3,15 +3,15 @@
    width="80"
    height="73.333"
    version="1.1"
-   id="svg5716"
-   sodipodi:docname="xbox_rt.svg"
+   id="svg30436"
+   sodipodi:docname="xbox_rt_outline.svg"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
-     id="namedview5718"
+     id="namedview30438"
      pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
@@ -20,25 +20,25 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="3.1796875"
-     inkscape:cx="-9.7493857"
-     inkscape:cy="53.936118"
+     inkscape:zoom="6.359375"
+     inkscape:cx="2.9090909"
+     inkscape:cy="26.181818"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg5716" />
+     inkscape:current-layer="svg30436" />
   <defs
-     id="defs5710" />
+     id="defs30430" />
   <g
-     id="g5714"
+     id="g30434"
      transform="matrix(1.6666667,0,0,1.6666667,-13.333333,-16.666667)">
     <path
        stroke="none"
-       fill="#FFFFFF"
-       d="m 38,36 h 4 V 23 h 5 V 19 H 33 v 4 h 5 V 36 M 48.3,54 H 31.35 Q 21.85,53.8 15.05,47 8.35,40.3 8,31.05 V 18 q 0,-8 8,-8 h 32 q 8,0 8,8 v 28 q 0,7.85 -7.7,8 M 25,23 q 0.8,0 1.4,0.6 0.6,0.6 0.6,1.4 0,0.8 -0.55,1.35 l -0.1,0.1 Q 25.8,27 25,27 h -3 v -4 h 3 m -7,-4 v 17 h 4 v -5 h 3 l 2.5,5 h 4 L 28.45,29.9 29.2,29.25 29.25,29.2 Q 31,27.45 31,25 31,22.5 29.25,20.75 27.5,19 25,19 h -7"
-       id="path5712"
+       fill="#ffffff"
+       d="M 38,36 V 23 h -5 v -4 h 14 v 4 H 42 V 36 H 38 M 48.3,54 H 31.35 Q 21.85,53.8 15.05,47 8.35,40.3 8,31.05 V 18 q 0,-8 8,-8 h 32 q 8,0 8,8 v 28 q 0,7.85 -7.7,8 M 18,19 h 7 q 2.5,0 4.25,1.75 Q 31,22.5 31,25 q 0,2.45 -1.75,4.2 L 29.2,29.25 28.45,29.9 31.5,36 h -4 L 25,31 h -3 v 5 H 18 V 19 m 7,4 h -3 v 4 h 3 q 0.8,0 1.35,-0.55 l 0.1,-0.1 Q 27,25.8 27,25 27,24.2 26.4,23.6 25.8,23 25,23 M 53,46 V 18 q 0,-5 -5,-5 H 16 q -5,0 -5,5 v 13.05 q 0.35,8 6.15,13.8 Q 23.3,51 32,51 h 16 q 5,0 5,-5"
+       id="path30432"
        style="fill:#a747eb;fill-opacity:1" />
   </g>
 </svg>
